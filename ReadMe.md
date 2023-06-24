@@ -31,4 +31,6 @@ I write here all steps from beginning while I'm  creating the project and its fo
         
 #### 11. Add to project "ReamMe.md" file to store the story of the project
 
-#### 12. 
+#### 12. Add some configuration in cypress.config file
+
+#### 13. Create new file under e2e folder to create a new and first Test Case
